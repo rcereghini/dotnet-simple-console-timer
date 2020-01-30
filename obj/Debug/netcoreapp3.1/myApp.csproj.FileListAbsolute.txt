@@ -1,0 +1,11 @@
+/Users/rcereghini/myApp/bin/Debug/netcoreapp3.1/myApp
+/Users/rcereghini/myApp/bin/Debug/netcoreapp3.1/myApp.deps.json
+/Users/rcereghini/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.json
+/Users/rcereghini/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.dev.json
+/Users/rcereghini/myApp/bin/Debug/netcoreapp3.1/myApp.dll
+/Users/rcereghini/myApp/bin/Debug/netcoreapp3.1/myApp.pdb
+/Users/rcereghini/myApp/obj/Debug/netcoreapp3.1/myApp.csprojAssemblyReference.cache
+/Users/rcereghini/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfoInputs.cache
+/Users/rcereghini/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfo.cs
+/Users/rcereghini/myApp/obj/Debug/netcoreapp3.1/myApp.dll
+/Users/rcereghini/myApp/obj/Debug/netcoreapp3.1/myApp.pdb
